@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O'Reilly/Postman API Testing - Praveenkumar Bouna/Chapter 1.md",
+                "file": "O'Reilly Courses/Postman API Testing - Praveenkumar Bouna/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O'Reilly/Postman API Testing - Praveenkumar Bouna/Chapter 1.md",
+                "file": "O'Reilly Courses/Postman API Testing - Praveenkumar Bouna/Chapter 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -213,13 +213,14 @@
   },
   "active": "f44fe31623182d08",
   "lastOpenFiles": [
+    "O'Reilly Courses",
     "O'Reilly",
-    "O'Reilly/Postman API Testing - Praveenkumar Bouna/Chapter 1.md",
+    "O'Reilly Courses/Postman API Testing - Praveenkumar Bouna/Chapter 1.md",
     "Exploration/Interesting Tools and Websites.md",
     "Exploration",
     "O'REILLY/Postman API Testing - Praveenkumar Bouna/CHAPTERS.md",
     "Welcome.md",
-    "O'Reilly/Postman API Testing - Praveenkumar Bouna",
+    "O'Reilly Courses/Postman API Testing - Praveenkumar Bouna",
     "O'Reilly 1"
   ]
 }
