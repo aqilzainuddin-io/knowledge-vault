@@ -6,3 +6,11 @@ What is API?
 What is request?
 - A request in Postman is a single API request for a give [GET, POST, PUT, or DELETE]. This request can be customized with parameters, headers, and body data, allowing users to test and interact with APIs in a flexible way
 - Example: a user can send a GET request to retrieve data from an API, or a POST request to create a new data
+
+TLDR:
+- APIs **(application programming interface)** is set of rules and protocols that lets different software application communicate with each other 
+- Postman requests can:
+	- Do CRUD operations
+	- Send Parameters
+	- Authorization Details
+	- Send Data through the Body Request

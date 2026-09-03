@@ -22,3 +22,10 @@ Postman Desktop vs Postman Web
 - Public APIs [Postman Desktop/Postman Web]
 - Partner APIs [Postman Desktop/Postman Web]
 - Private APIs [Postman Desktop]
+
+TLDR:
+- Postman is a popular tool used for API testing and development
+- Use cases
+	- Sending API requests
+	- Inspecting responses
+	- Testing API security
