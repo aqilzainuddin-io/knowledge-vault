@@ -11,6 +11,6 @@ TLDR:
 - APIs **(application programming interface)** is set of rules and protocols that lets different software application communicate with each other 
 - Postman requests can:
 	- Do CRUD operations
-	- Send Parameters
+	- Send Parameters (Data)
 	- Authorization Details
 	- Send Data through the Body Request
