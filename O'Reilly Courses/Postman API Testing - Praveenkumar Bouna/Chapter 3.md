@@ -5,6 +5,11 @@ What is API response?
 	- Server will response with status code and data
 	- Example: Server response with status code (200) which mean ok for success, and also will provide the data from the server often in JSON format.
 
+Important Parts of Response
+- Status Code
+- Headers
+- Body
+
 Status Code
 - 200 OK - Success, The request was successful, and the server returned the requested data
 - 201 Created - Created, The request succeeded and a new resource was successfully created
@@ -16,3 +21,4 @@ Status Code
 
 - 500 Internal Server Error - Server Error, The request was fine, but the server encountered an unexpected error on its end
 - 503 Service Unavailable - Server Error, The server is temporarily overloaded or down for maintenance
+
